@@ -1,0 +1,12 @@
+{
+  "tokens": [
+    "MTMyMzk5MjU2NTU3MzQ4NDYzOQ.G0Umk-.iY1fdpGk9cvUM31f-y13ENj6hrmW5onU2KI5CQ",
+    "MTMyMTg0NTg2OTEzMzMwMzg0MA.G30I8q.zEaa0j8gPUxfVK6PfTIKTRFJ6Z-us3FsxQJzvU",
+    "MTQ5NzI0MDY2ODA0MzYwODE2NQ.G4wOCG.tOER1ZTX8hxJEFysig0kGa8WShTJWmUsYzQyzI"
+  ],
+  "settings": {
+    "auto_accept": true,
+    "log_progress": true,
+    "poll_interval": 40
+  }
+}
